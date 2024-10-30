@@ -36,10 +36,10 @@ Las funcionalidades clave de esta aplicación incluyen:
 
 ## Diseño (wireframes o esquemas de página)
 #### Pantalla de registro
-![](https://github.com/Hashuard/M1-Borrador-del-proyecto-de-la-aplicaci-n-de-Android---Sebastian-David-Montoya/blob/main/img/1-Pantalla%20de%20registro.png?raw=true)
+![](https://github.com/Hashuard/M1-Borrador-del-proyecto-de-la-aplicaci-n-de-Android---Sebastian-David-Montoya/blob/main/img/2-Pantalla%20de%20inicio%20de%20sesion.png?raw=true)
 
 ### Pantalla de inicio de sesión
-![](https://github.com/Hashuard/M1-Borrador-del-proyecto-de-la-aplicaci-n-de-Android---Sebastian-David-Montoya/blob/main/img/2-Pantalla%20de%20inicio%20de%20sesion.png?raw=true)
+![](https://github.com/Hashuard/M1-Borrador-del-proyecto-de-la-aplicaci-n-de-Android---Sebastian-David-Montoya/blob/main/img/1-Pantalla%20de%20registro.png?raw=true)
 
 ### Pantalla de inicio de sesión exitoso
 ![](https://github.com/Hashuard/M1-Borrador-del-proyecto-de-la-aplicaci-n-de-Android---Sebastian-David-Montoya/blob/main/img/3-Pantalla%20de%20inicio%20de%20sesion%20exitoso.png?raw=true)
