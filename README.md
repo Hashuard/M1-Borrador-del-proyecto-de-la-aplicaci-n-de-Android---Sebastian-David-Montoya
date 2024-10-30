@@ -39,7 +39,7 @@ Las funcionalidades clave de esta aplicación incluyen:
 ![]([/examples/php/../uploads/1-Pantalla de registro.png](https://github.com/Hashuard/M1-Borrador-del-proyecto-de-la-aplicaci-n-de-Android---Sebastian-David-Montoya/blob/main/img/1-Pantalla%20de%20registro.png?raw=true))
 
 ### Pantalla de inicio de sesión
-![](/examples/php/../uploads/2-Pantalla de inicio de sesion.png)
+![](img/2-Pantalla de inicio de sesion.png)
 
 ### Pantalla de inicio de sesión exitoso
 ![](/examples/php/../uploads/3-Pantalla de inicio de sesion exitoso.png)
