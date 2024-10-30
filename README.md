@@ -36,7 +36,7 @@ Las funcionalidades clave de esta aplicación incluyen:
 
 ## Diseño (wireframes o esquemas de página)
 #### Pantalla de registro
-![](/examples/php/../uploads/1-Pantalla de registro.png)
+![]([/examples/php/../uploads/1-Pantalla de registro.png](https://github.com/Hashuard/M1-Borrador-del-proyecto-de-la-aplicaci-n-de-Android---Sebastian-David-Montoya/blob/main/img/1-Pantalla%20de%20registro.png?raw=true))
 
 ### Pantalla de inicio de sesión
 ![](/examples/php/../uploads/2-Pantalla de inicio de sesion.png)
