@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "859911823121",
+    "project_id": "my-application-update-m5",
+    "storage_bucket": "my-application-update-m5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859911823121:android:685726da75a0eb3175b6b0",
+        "android_client_info": {
+          "package_name": "com.hashuard.myapplicationupdatem5"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsAh77haXfytM4P_XOvPXlfWs5zWDXkzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
