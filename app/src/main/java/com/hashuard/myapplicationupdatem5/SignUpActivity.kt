@@ -4,8 +4,8 @@ import android.content.Intent
 import android.os.Bundle
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
-import com.hashuard.myapplicationupdatem5.databinding.ActivitySignUpBinding
 import com.google.firebase.auth.FirebaseAuth
+import com.hashuard.myapplicationupdatem5.databinding.ActivitySignUpBinding
 
 class SignUpActivity : AppCompatActivity() {
 
@@ -45,7 +45,7 @@ class SignUpActivity : AppCompatActivity() {
                     Toast.makeText(this, "La contraseña no coincide", Toast.LENGTH_SHORT).show()
                 }
             } else {
-                Toast.makeText(this, "Campos vacíos no permitidos !!", Toast.LENGTH_SHORT).show()
+                Toast.makeText(this, "¡Campos vacíos no permitidos!", Toast.LENGTH_SHORT).show()
 
             }
         }

@@ -40,18 +40,9 @@ class SignInActivity : AppCompatActivity() {
                     }
                 }
             } else {
-                Toast.makeText(this, "Campos vacíos no permitidos !!", Toast.LENGTH_SHORT).show()
+                Toast.makeText(this, "¡Campos vacíos no permitidos!", Toast.LENGTH_SHORT).show()
 
             }
-        }
-    }
-
-    override fun onStart() {
-        super.onStart()
-
-        if(firebaseAuth.currentUser != null){
-            val intent = Intent(this, MainActivity::class.java)
-            startActivity(intent)
         }
     }
 }
